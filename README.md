@@ -9,7 +9,7 @@ Repository นี้มี `Dockerfile` และ `railway.json` พร้อม
 ## Run ในเครื่อง
 
 ```bash
-npm ci
+npm install
 npm run build
 npm start
 ```
